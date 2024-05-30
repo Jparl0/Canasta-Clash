@@ -18,7 +18,7 @@ export default function DaRules (): JSX.Element {
                         A canasta is defined as a set of 7 or more cards of the same number *or with 1-3 wilds* that have been placed down in a players zone to reach or after reaching the meld
                     </li>
                     <li>
-                        No canasta may have more than 4
+                        No canasta may have more than 3 wilds *2s or Jokers*
                     </li>
                     <li>
                         The meld is defined by a pre-determined number set before the round that each player must reach before taking cards from the discard pile or placing any cards in their zone. For example 50, 90, or 120 points total
