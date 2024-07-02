@@ -1,0 +1,4 @@
+export const BREAKPOINT_SMALL = 760
+export const BREAKPOINT_MEDIUM = 990
+export const BREAKPOINT_LARGE = 1200
+export const BREAKPOINT_XLARGE = 1460
